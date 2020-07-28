@@ -9,10 +9,10 @@ import json
 
 
 def time_fuc():
-    CONSUMER_KEY = "M2X6inarfU2p7H4mnjVsIlZvX"
-    CONSUMER_SECRET_KEY = "BKwtrAdQg85ZwkDRIhHytslgBJY8JJ9VsXz97ACNcvmPJV7MAQ"
-    ACESS_TOKEN = "3532169663-hozzDsYlHVkESZ028zIdHC2g0JWxH1bKBI4bsEC"
-    ACESS_TOKEN_SECRET = "3IKWod2ghwJqSRhIKZAj009JVOy7Nj66eTkJKRpYPTlW7"
+    CONSUMER_KEY = 
+    CONSUMER_SECRET_KEY = 
+    ACESS_TOKEN = 
+    ACESS_TOKEN_SECRET = 
 
     # Keys connexion to Twitter API
     auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET_KEY)
